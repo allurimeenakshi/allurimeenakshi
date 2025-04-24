@@ -17,21 +17,21 @@
 
 ### MERN Stack Projects
 
-- **ShopSync**  
-  A categorized e-commerce platform covering Home Appliances, Clothing, Grocery, and more.  
-  *Tech Stack:* React.js, Node.js, Express, MongoDB
-
 - **AcademiaConnect**  
-  A collaborative academic platform for students and educators.  
-  *Tech Stack:* React.js, Node.js, MongoDB
+  Academia Connect is a comprehensive web application designed to enhance the student experience by providing a centralized platform for academic resources, progress tracking, and community engagement.  
+  *Tech Stack:* MongoDB, Express.js, React.js, Node.js
 
 - **HungerHeal**  
-  A food-sharing platform to minimize food wastage and help the needy.  
+  HungerHeal is a MERN-based food donation platform that connects donors with the needy to reduce food waste and fight hunger efficiently. 
   *Tech Stack:* MERN Stack
 
 - **VaidyaVan**  
-  A digital health tracking and appointment management platform.  
+  VaidyaVan is an immersive virtual herbal garden that blends technology with AYUSH wisdom to explore medicinal plants and traditional healing practices.  
   *Tech Stack:* MERN Stack
+
+  - **ShopSync**  
+  A categorized e-commerce platform covering Home Appliances, Clothing, Grocery, and more.  
+  *Tech Stack:* React.js, Node.js, Express, MongoDB
 
 ### Machine Learning Projects
 
@@ -46,7 +46,7 @@
 ## 🧠 Technical Skills
 
 ### Languages  
-`C` `C++` `Java` `Python` `SQL`
+`C++` `Java` `C` `Python` `SQL`
 
 ### Web Development  
 `HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap`
@@ -55,13 +55,15 @@
 `Data Structures` `Algorithms` `OOP` `DBMS` `Operating Systems`
 
 ### Tools & Platforms  
-`Git` `GitHub` `VS Code` `Netlify` `Postman` `Render`
+`Git` `GitHub` `VS Code` 
 
 ---
 
 ## 🔗 Connect With Me
 
 - GitHub: [allurimeenakshi](https://github.com/allurimeenakshi)  
-- LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)  
+- LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)
+
+## Coding Platforms
 - LeetCode: [ALLURI_MEENAKSHI](https://leetcode.com/u/ALLURI_MEENAKSHI/)  
 - CodeChef: [ameenakshi](https://www.codechef.com/users/ameenakshi)
