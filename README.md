@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Animation">
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://img.freepik.com/premium-vector/young-woman-working-computer-home-vector-illustration-cartoon-style_1142-62905.jpg?w=360)" width="400" alt="Coding Animation">
 </p>
 
 - 🌱 Currently learning: **Data Structures & Algorithms**, **Advanced MERN Stack**
