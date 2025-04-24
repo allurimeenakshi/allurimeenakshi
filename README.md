@@ -29,7 +29,7 @@
   VaidyaVan is an immersive virtual herbal garden that blends technology with AYUSH wisdom to explore medicinal plants and traditional healing practices.  
   *Tech Stack:* MERN Stack
 
-  - **ShopSync**  
+- **ShopSync**  
   A categorized e-commerce platform covering Home Appliances, Clothing, Grocery, and more.  
   *Tech Stack:* React.js, Node.js, Express, MongoDB
 
