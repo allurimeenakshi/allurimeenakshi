@@ -7,7 +7,7 @@
 
 - 🎓 Computer Science undergraduate with a passion for solving real-world problems through code and technology.
 - 💻 Strong foundation in Computer Science fundamentals, Data Structures, and Algorithms.
-- 🌱 Currently exploring advanced MERN stack techniques and system design.
+- 🌱 Actively learning Problem Solving, MERN stack technologies, and System Design.
 - 📬 Contact: meena.alluri2004@gmail.com  
   🔗 LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)
 
@@ -63,7 +63,7 @@
 ## 🔗 Connect With Me
 
 - GitHub: [allurimeenakshi](https://github.com/allurimeenakshi)  
-- LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)
+- LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri)
 
 ## 🔗 Coding Platforms
 - LeetCode: [ALLURI_MEENAKSHI](https://leetcode.com/u/ALLURI_MEENAKSHI/)  
