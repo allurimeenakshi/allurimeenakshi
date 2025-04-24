@@ -1,81 +1,67 @@
-<h1 align="center">Hi 👋, I'm Meenakshi Alluri</h1>
-<h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer_girl.gif" width="400" alt="Girl Coding Animation">
-</p>
-
-- 🌱 Currently learning: **Data Structures & Algorithms**, **Advanced MERN Stack**
-- 🔭 Focused on: **Full Stack Development** and **Machine Learning**
-- 🧠 Strong in: **Problem Solving**, **Computer Science Fundamentals**
-- 💬 Ask me about: MERN Stack, ML models, Git & GitHub
-- 📫 Reach me at: **meena.alluri2004@gmail.com**
+# Hi there, I'm Meenakshi Alluri 👋  
+**Problem Solver | Full Stack Developer | Machine Learning Enthusiast**
 
 ---
 
-## 🚀 Skills
+## 👩‍💻 About Me
 
-### 👩‍💻 Programming Languages
-`C` `C++` `Java` `Python` `SQL`
-
-### 🌐 Web Development
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB` `Bootstrap`
-
-### 📚 CS Fundamentals
-`Data Structures` `Algorithms` `Object-Oriented Programming`
-
-### 🔧 Tools & Platforms
-`Git` `GitHub` `VS Code`
+- 🎓 Computer Science undergraduate with a passion for solving real-world problems through code and technology.
+- 💻 Strong foundation in Computer Science fundamentals, Data Structures, and Algorithms.
+- 🌱 Currently exploring advanced MERN stack techniques and system design.
+- 📬 Contact: meena.alluri2004@gmail.com  
+  🔗 LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)
 
 ---
 
 ## 💼 Projects
 
-### 📘 AcademiaConnect
-An educational collaboration platform built using the **MERN stack** to enhance academic workflows.
+### MERN Stack Projects
 
-### 🛒 ShopSync
-A modern e-commerce platform that offers seamless shopping experiences with categorized browsing.
+- **ShopSync**  
+  A categorized e-commerce platform covering Home Appliances, Clothing, Grocery, and more.  
+  *Tech Stack:* React.js, Node.js, Express, MongoDB
 
-### 🩺 Chronic Kidney Disease Predictor
-Machine Learning model built using regression algorithms to predict CKD with 98.75% accuracy.
+- **AcademiaConnect**  
+  A collaborative academic platform for students and educators.  
+  *Tech Stack:* React.js, Node.js, MongoDB
 
-### 📈 Stock Price Prediction
-Analyzed stock trends and forecasted prices using **ML models** and **data visualization techniques**.
+- **HungerHeal**  
+  A food-sharing platform to minimize food wastage and help the needy.  
+  *Tech Stack:* MERN Stack
 
----
+- **VaidyaVan**  
+  A digital health tracking and appointment management platform.  
+  *Tech Stack:* MERN Stack
 
-## 🏆 Achievements
+### Machine Learning Projects
 
-- 🥇 **Gold Badge** – CodeChef (Problem Solver & Contest Contender)
-- 🔥 **200-Day Streak** – LeetCode
-- 🧠 **Sparkathon Finalist** – Hackathon by Walmart
-- 🥉 **3rd Prize** – National Ideathon
+- **Chronic Kidney Disease Prediction**  
+  Achieved 98.75% accuracy using regression models for predicting CKD based on medical input data.
 
----
-
-## 📜 Certifications
-
-- 🧠 [Smart Interviews – Smart Coder](https://smartinterviews.in/certificate/0bbf06a3)
-- ☕ Introduction to Java – NPTEL
-- 🔍 Problem Solving Using DSA – BYTES
-- 🌟 Soft Skills & Personality – NPTEL
+- **Stock Price Prediction**  
+  Utilized ML algorithms and time-series analysis to predict stock trends with data visualization.
 
 ---
 
-## 🌐 Let's Connect
+## 🧠 Technical Skills
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/meenakshialluri/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/allurimeenakshi"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
-  <a href="https://leetcode.com/u/ALLURI_MEENAKSHI/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" /></a>
-  <a href="https://www.codechef.com/users/ameenakshi"><img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" /></a>
-</p>
+### Languages  
+`C` `C++` `Java` `Python` `SQL`
+
+### Web Development  
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap`
+
+### Core CS  
+`Data Structures` `Algorithms` `OOP` `DBMS` `Operating Systems`
+
+### Tools & Platforms  
+`Git` `GitHub` `VS Code` `Netlify` `Postman` `Render`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allurimeenakshi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allurimeenakshi&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allurimeenakshi&theme=radical" />
-</p>
+## 🔗 Connect With Me
+
+- GitHub: [allurimeenakshi](https://github.com/allurimeenakshi)  
+- LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)  
+- LeetCode: [ALLURI_MEENAKSHI](https://leetcode.com/u/ALLURI_MEENAKSHI/)  
+- CodeChef: [ameenakshi](https://www.codechef.com/users/ameenakshi)
