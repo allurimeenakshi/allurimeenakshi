@@ -64,6 +64,6 @@
 - GitHub: [allurimeenakshi](https://github.com/allurimeenakshi)  
 - LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)
 
-## Coding Platforms
+## 🔗 Coding Platforms
 - LeetCode: [ALLURI_MEENAKSHI](https://leetcode.com/u/ALLURI_MEENAKSHI/)  
 - CodeChef: [ameenakshi](https://www.codechef.com/users/ameenakshi)
