@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Meenakshi Alluri</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN Stack | Machine Learning Enthusiast</h3>
+<h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Animation">
 </p>
 
 - 🌱 Currently learning: **Data Structures & Algorithms**, **Advanced MERN Stack**
-- 🔭 Focused on: **Full Stack Development** and **ML Projects**
+- 🔭 Focused on: **Full Stack Development** and **Machine Learning**
 - 🧠 Strong in: **Problem Solving**, **Computer Science Fundamentals**
 - 💬 Ask me about: MERN Stack, ML models, Git & GitHub
 - 📫 Reach me at: **meena.alluri2004@gmail.com**
@@ -15,7 +15,7 @@
 
 ## 🚀 Skills
 
-### 👨‍💻 Programming Languages
+### 👩‍💻 Programming Languages
 `C` `C++` `Java` `Python` `SQL`
 
 ### 🌐 Web Development
@@ -32,13 +32,16 @@
 ## 💼 Projects
 
 ### 📘 AcademiaConnect
-An education platform built with **React.js + MongoDB**, optimizing student engagement and streamlining academics.
+An educational collaboration platform built using the **MERN stack** to enhance academic workflows.
 
 ### 🛒 ShopSync
-E-commerce platform using **React.js + MongoDB**, focused on seamless shopping experience and advanced UI/UX.
+A modern e-commerce platform that offers seamless shopping experiences with categorized browsing.
 
 ### 🩺 Chronic Kidney Disease Predictor
-A ML model predicting CKD progression using **Linear and Logistic Regression** with 98.75% accuracy.
+Machine Learning model built using regression algorithms to predict CKD with 98.75% accuracy.
+
+### 📈 Stock Price Prediction
+Analyzed stock trends and forecasted prices using **ML models** and **data visualization techniques**.
 
 ---
 
