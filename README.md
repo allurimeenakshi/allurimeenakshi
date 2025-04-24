@@ -22,8 +22,9 @@
   *Tech Stack:* MongoDB, Express.js, React.js, Node.js
 
 - **HungerHeal**  
-  HungerHeal is a MERN-based food donation platform that connects donors with the needy to reduce food waste and fight hunger efficiently. 
+  HungerHeal is a MERN-based food donation platform that connects donors with the needy to reduce food waste and fight hunger efficiently.  
   *Tech Stack:* MERN Stack
+
 
 - **VaidyaVan**  
   VaidyaVan is an immersive virtual herbal garden that blends technology with AYUSH wisdom to explore medicinal plants and traditional healing practices.  
