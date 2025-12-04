@@ -8,7 +8,7 @@
 - 🎓 Computer Science undergraduate with a passion for solving real-world problems through code and technology.
 - 💻 Strong foundation in Computer Science fundamentals, Data Structures, and Algorithms.
 - 🌱 Actively learning Problem Solving, MERN stack technologies, and System Design.
-- 📬 Contact: meena.alluri2004@gmail.com  
+- 📬 Contact: allurimeenakshi8@gmail.com  
   🔗 LinkedIn: [Meenakshi Alluri](https://www.linkedin.com/in/meenakshialluri/)
 
 ---
