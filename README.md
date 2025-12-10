@@ -27,9 +27,3 @@
 
 ### Tools & Platforms  
 `Git` `GitHub` `VS Code` 
-
----
-
-## 🔗 Coding Platforms
-- LeetCode: [ALLURI_MEENAKSHI](https://leetcode.com/u/ALLURI_MEENAKSHI/)  
-- CodeChef: [ameenakshi](https://www.codechef.com/users/ameenakshi)
