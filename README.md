@@ -13,36 +13,6 @@
 
 ---
 
-## 💼 Projects
-
-### MERN Stack Projects
-
-- **AcademiaConnect**  
-  Academia Connect is a comprehensive web application designed to enhance the student experience by providing a centralized platform for academic resources, progress tracking, and community engagement.  
-  *Tech Stack:* MongoDB, Express.js, React.js, Node.js
-
-- **HungerHeal**  
-  HungerHeal is a MERN-based food donation platform that connects donors with the needy to reduce food waste and fight hunger efficiently.  
-  *Tech Stack:* MERN Stack
-
-
-- **VaidyaVan**  
-  VaidyaVan is an immersive virtual herbal garden that blends technology with AYUSH wisdom to explore medicinal plants and traditional healing practices.  
-  *Tech Stack:* MERN Stack
-
-- **ShopSync**  
-  A categorized e-commerce platform covering Home Appliances, Clothing, Grocery, and more.  
-  *Tech Stack:* React.js, Node.js, Express, MongoDB
-
-### Machine Learning Projects
-
-- **Chronic Kidney Disease Prediction**  
-  Achieved 98.75% accuracy using regression models for predicting CKD based on medical input data.
-
-- **Stock Price Prediction**  
-  Utilized ML algorithms and time-series analysis to predict stock trends with data visualization.
-
----
 
 ## 🧠 Technical Skills
 
